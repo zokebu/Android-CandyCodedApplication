@@ -45,7 +45,7 @@
         android:layout_marginRight="8dp"
         android:clickable="true"
         android:gravity="center_vertical"
-        android:linksClickable="true"
+        android:linksClickable="false"
         android:onClick="creatPhoneIntent"
         android:text="(012)345-6789"
         android:textColor="?android:attr/actionMenuTextColor"
